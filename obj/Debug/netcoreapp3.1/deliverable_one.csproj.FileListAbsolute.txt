@@ -1,0 +1,13 @@
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\obj\Debug\netcoreapp3.1\deliverable_one.csprojAssemblyReference.cache
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\obj\Debug\netcoreapp3.1\deliverable_one.AssemblyInfoInputs.cache
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\obj\Debug\netcoreapp3.1\deliverable_one.AssemblyInfo.cs
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\obj\Debug\netcoreapp3.1\deliverable_one.csproj.CoreCompileInputs.cache
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\bin\Debug\netcoreapp3.1\deliverable_one.exe
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\bin\Debug\netcoreapp3.1\deliverable_one.deps.json
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\bin\Debug\netcoreapp3.1\deliverable_one.runtimeconfig.json
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\bin\Debug\netcoreapp3.1\deliverable_one.runtimeconfig.dev.json
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\bin\Debug\netcoreapp3.1\deliverable_one.dll
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\bin\Debug\netcoreapp3.1\deliverable_one.pdb
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\obj\Debug\netcoreapp3.1\deliverable_one.dll
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\obj\Debug\netcoreapp3.1\deliverable_one.pdb
+C:\Users\pengu\source\repos\deliverable_one\deliverable_one\obj\Debug\netcoreapp3.1\deliverable_one.genruntimeconfig.cache
